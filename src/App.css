@@ -1,6 +1,6 @@
 :root {
   --yellow: #F5C32C;
-  --orange: #FCA61F;
+  --primary: #FCA61F;
   --black: #242D49;
   --gray: #788097;
   --blueCard: #DDF8FE;
@@ -29,6 +29,6 @@
 .button:hover {
   background: white;
   cursor: pointer;
-  color: var(--orange);
-  border: 1px solid var(--orange);
+  color: var(--primary);
+  border: 1px solid var(--primary);
 }
